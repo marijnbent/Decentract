@@ -104,7 +104,6 @@ contract DecentractClass {
                 return true;
             }
         }
-
         return false;
     }
 }
