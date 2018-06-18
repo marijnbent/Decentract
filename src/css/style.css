@@ -1,0 +1,12 @@
+h2.appTitle {
+    margin-bottom: 20px;
+}
+
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.card {
+    margin-bottom: 15px;
+}
